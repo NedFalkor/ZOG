@@ -1,0 +1,7 @@
+{
+  "name": "ZOG",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
